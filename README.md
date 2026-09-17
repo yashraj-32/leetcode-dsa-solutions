@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
