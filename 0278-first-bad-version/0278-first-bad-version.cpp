@@ -16,8 +16,7 @@ public:
         
           
            if(flag == false){
-               j = i+1;
-               break;
+               return i+1;
             }
             
           
