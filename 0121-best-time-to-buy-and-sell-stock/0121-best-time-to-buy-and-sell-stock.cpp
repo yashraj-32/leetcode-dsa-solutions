@@ -14,12 +14,7 @@ public:
             }
             if (les > prices[i] ){
                 les = prices[i];
-            }
-
-
-
-        }
+            } }
         return max;
-
-    }
+        }
 };
