@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
