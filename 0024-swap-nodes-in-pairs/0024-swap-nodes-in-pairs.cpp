@@ -19,8 +19,7 @@ public:
         if(temp2->next == NULL) return head;
         temp1 = temp2->next;
         head = temp2;
-      
-        while(temp1->next != NULL && temp1->next->next != NULL){
+      while(temp1->next != NULL && temp1->next->next != NULL){
             ListNode* prev =temp1;
             temp1 = temp1->next;
             temp2 = temp1->next;
@@ -29,11 +28,6 @@ public:
             prev->next = temp2;
             
         }
-
-
-
-
-
         return head; 
     }
 };
