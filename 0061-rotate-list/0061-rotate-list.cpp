@@ -25,6 +25,7 @@ public:
             else break;
 
         }
+        // found out the number of nodes
         temp = head;
         k = k%count;
         if(k == 0)return head;
@@ -49,6 +50,8 @@ public:
            
             temp = temp->next;
         }
+        //last node ko head se jod diya
+
          for (int i = 1 ; i>0; i++){
                 if(temp->next == head1){
                         temp->next = NULL;
@@ -57,7 +60,8 @@ public:
                         return head1;
                     }
                     temp = temp->next;
-         }
+         }  
+         //head1 se pehel wali connection break krdi
         return head1;
 
 
