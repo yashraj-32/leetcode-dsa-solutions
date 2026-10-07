@@ -35,14 +35,9 @@ public:
                           s.push(c);
                     continue;
                     }
-                    
-                    
 
                 }
-                
-        }
+         }
         return s.top();
-
-        
     }
 };
