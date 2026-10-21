@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
