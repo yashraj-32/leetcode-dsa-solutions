@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0058-length-of-last-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
