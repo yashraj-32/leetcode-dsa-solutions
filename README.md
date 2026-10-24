@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -133,9 +134,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
