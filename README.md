@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -143,10 +145,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
