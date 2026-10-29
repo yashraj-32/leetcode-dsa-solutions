@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Memoization
 |  |
 | ------- |
