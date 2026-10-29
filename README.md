@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
