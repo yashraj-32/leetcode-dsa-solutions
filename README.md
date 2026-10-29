@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
 ## Memoization
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
