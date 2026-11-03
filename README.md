@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0171-excel-sheet-column-number) |
