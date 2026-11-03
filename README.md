@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0836-rectangle-overlap) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
+| [0171-excel-sheet-column-number](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0171-excel-sheet-column-number) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
