@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -183,8 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
