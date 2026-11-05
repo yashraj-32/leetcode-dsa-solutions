@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1046-last-stone-weight](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1046-last-stone-weight) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0112-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
