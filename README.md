@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1089-duplicate-zeros) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
