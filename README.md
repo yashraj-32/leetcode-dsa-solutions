@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1046-last-stone-weight) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
