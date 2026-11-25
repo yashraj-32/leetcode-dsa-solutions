@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
