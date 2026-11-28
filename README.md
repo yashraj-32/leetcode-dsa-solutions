@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0994-rotting-oranges](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/1089-duplicate-zeros) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 ## Geometry
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/yashraj-32/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
